@@ -1,8 +1,8 @@
-## NAME_OF_YOUR_APP_HERE
+## Introduce Yourself
 
 ### App Description
 
-`TODO://` Add app description
+Introduce Yourself is an application that allows users to personalize their introduction with a school name and logo, first and last names, and student year. The app also has interactive features like a pet-matching stepper, a switch to express pet preferences, and a button that triggers a friendly introduction in an alert box.
 
 ### App Walk-though
 

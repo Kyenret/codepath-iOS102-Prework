@@ -1,4 +1,4 @@
-## Introduce Yourself
+## Introduce Yourself App
 
 Submitted by: Kyenret Yakubu Ayuba
 

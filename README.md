@@ -6,6 +6,12 @@ Introduce Yourself is an application that allows users to personalize their intr
 
 ### App Walk-though
 
+<img src='https://github.com/Kyenret/codepath-iOS102-Prework/blob/main/iOS102_PreworkVideo_kayuba.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+GIF created with ezgif 
+
+
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
